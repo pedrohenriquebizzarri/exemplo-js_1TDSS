@@ -1,1 +1,1 @@
-document.write("Versão Navegador" + navigator.userAgent);
+// document.write("Versão Navegador" + navigator.userAgent);
